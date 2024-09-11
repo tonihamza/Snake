@@ -1,4 +1,5 @@
 # Snake Game in Excel (VBA)
+![Snake](Snake.png)
 
 Welcome to the **Snake Game** created entirely using Excel and VBA macros! You can find and play the game by downloading the file `Snake.xlsm`. The code is included both in the Excel file and separately in this repository.
 
